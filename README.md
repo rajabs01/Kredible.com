@@ -1,5 +1,6 @@
 # Kredible.com
 YorkU Fullstack Project
+
 USER STORIES
 
 Kredible.com is an online platform that links service providers to potential customers. This is done by posting and advertising services. This then enables a user surf, compare and select the kind of services they require.
