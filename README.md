@@ -1,5 +1,5 @@
 # Kredible.com
-YorkU Fullstack Project
+York-Uni-Fullstack Project
 
 USER STORIES
 
